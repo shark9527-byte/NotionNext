@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '鲜艳的红领巾',
   HEO_HERO_TITLE_2: '飘扬在胸口',
   HEO_HERO_TITLE_3: 'pomelo-blog.netlify.app',
-  HEO_HERO_TITLE_4: '柚子的博客',
-  // HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_4: '',
+  HEO_HERO_TITLE_5: '柚子的博客',
   HEO_HERO_TITLE_LINK: 'pomelo-blog.netlify.app',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
